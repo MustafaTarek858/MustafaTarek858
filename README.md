@@ -1,44 +1,55 @@
-# 👋 Hi, I'm Mustafa Tarek
+# 👋 Hi, I'm Mustafa Tarek! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35" />
 
 **Software Developer | .NET Enthusiast | Full-Stack Problem Solver**
 
-🔧 With over **4 years of experience**, I specialize in designing, building, and optimizing modern web and desktop applications using technologies like **C#, .NET Core**, **React**, **SQL**, and **Azure**. I’m passionate about clean code, solid architecture, and efficient solutions.
+<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250" />
 
-## 🚀 About Me
+I'm a passionate software developer with over **4 years of experience** crafting high-quality solutions using **C#, .NET, JavaScript**, and **React**. I enjoy solving business problems, building scalable applications, and improving system performance. I value clean architecture, strong design patterns, and teamwork.
 
-- 🔍 Backend-focused developer with experience debugging, optimizing SQL queries, and improving system performance
-- 🤝 Team player who collaborates with cross-functional teams using **Agile** practices
-- 🧪 Automation advocate — built custom **Selenium** testing frameworks with strong design patterns like Singleton, Factory, and Dependency Injection
-- 🛠️ Loves exploring **API documentation** and building robust integrations (e.g., Salla, payment gateways)
-- 🌱 Currently exploring AI-powered dev tools like **ChatGPT**, **Perplexity**, and **Cursor**
+---
 
-## 🛠 Tech Stack
+### 🛠 Tech Stack & Tools
 
-**Languages & Frameworks:**  
-`C#` · `.NET Core` · `.NET Framework` · `JavaScript` · `TypeScript` · `Node.js` · `React` · `Express.js`
+- 💻 Languages: `C#`, `JavaScript`, `TypeScript`, `SQL`
+- 🌐 Frameworks: `.NET Framework`, `.NET Core`, `React`, `Node.js`, `Express`
+- 🛢 Databases: `MySQL`, `SQL Server`
+- ☁️ Cloud & APIs: `Azure`, `RESTful APIs`, `Swagger`
+- 🧪 Testing: `Selenium`, `Postman`
+- 🔧 Tools: `GitHub`, `Vite`, `Framer Motion`, `GSAP`, `Cursor`, `ChatGPT`, `Perplexity`
 
-**Databases & ORMs:**  
-`MySQL` · `SQL Server` · `Sequelize`
+---
 
-**Tools & Platforms:**  
-`GitHub` · `Postman` · `Swagger` · `Azure` · `Selenium` · `Tailwind CSS`
+### 🚀 Projects & Highlights <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="40" />
 
-**Dev Practices:**  
-`OOP` · `SOLID` · `Design Patterns` · `Agile` · `Debugging` · `Security Best Practices`
+- 🔧 **Nafeza System** – Backend business application for customs; focused on debugging, optimizing SQL queries, and automation testing using Selenium.
+- 🧼 **OverWash** – Eco-friendly car wash service built using **React, Node.js, MySQL**, with strong security and a modern UI/UX.
+- 🛍 **Freelance Projects** – Multiple freelance websites and eCommerce apps with full-stack features.
 
-## 📌 Featured Projects
+---
 
-- 🔗 [Nafeza](https://www.nafeza.gov.eg/en) — National customs platform (Backend Developer @ Misr Technology Services)
-- 🧼 OverWash — Eco-friendly car wash platform (Full-Stack, Freelance)
-- 🍽️ AgnaDeen — Premium frozen food delivery in the UAE
-- 💄 Alure — Beauty and booking platform
-- 🔄 21Rev — Modern web-based service system
+### 🧠 What I’m Learning
 
-## 📬 Let’s Connect!
+<img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="150" align="right" />
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/mustafatarekl/)
-- 📧 mustafaa.tarek858@gmail.com  
-- 📍 New Cairo, Egypt
+- Advanced software architecture principles (SOLID, design patterns)
+- Cloud development with Azure
+- AI-enhanced tools for development
+- Improving DevOps & deployment strategies
+
+---
+
+### 📫 Let's Connect
+
+- 📍 **New Cairo, Egypt**
+- 📧 [mustafaa.tarek858@gmail.com](mailto:mustafaa.tarek858@gmail.com)
+- 📱 +20 1024411779
+- 🔗 [LinkedIn](https://www.linkedin.com/in/mustafatarekl/)
+- 🌐 Portfolio (coming soon)
+
+---
+
+<img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="100"/>
 
 > *"Clean code, clear logic, real impact."*
 
+Thanks for visiting! Let’s build something awesome together 🚀
